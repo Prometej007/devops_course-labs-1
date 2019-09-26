@@ -10,6 +10,6 @@
 
 
 
-![Farmers Market Finder Demo](https://github.com/NotNull0/lab1/blob/master/nyashka.gif)
+![Farmers Market Finder Demo](https://github.com/NotNull0/devops_course-labs/blob/master/lab1/nyashka.gif)
 
 
